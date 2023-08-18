@@ -1,2 +1,6 @@
 # newfile
-first repo file
+first repo file.
+#teacher
+shradha khapra 
+
+ 
